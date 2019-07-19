@@ -1,0 +1,30 @@
+{
+    "editor.fontFamily": " 'Source Code Pro', 'Fira Code', 'Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback'",
+    "workbench.colorTheme": "Brackets Dark",
+    "editor.fontLigatures": true,
+    "markdown.preview.fontFamily": "cursive, -apple-system, BlinkMacSystemFont, 'Segoe WPC', 'Segoe UI', 'Ubuntu', 'Droid Sans', sans-serif",
+    "window.zoomLevel": 0,
+    "editor.minimap.enabled": false,
+    "editor.snippetSuggestions": "top",
+    "workbench.tree.indent": 15,
+    "breadcrumbs.filePath": "off",
+    "workbench.editor.highlightModifiedTabs": true,
+    "workbench.editor.openPositioning": "left",
+    "workbench.editor.restoreViewState": false,
+    "workbench.editor.tabCloseButton": "off",
+    "workbench.editor.tabSizing": "shrink",
+    "files.autoSave": "onFocusChange",
+    "files.autoSaveDelay": 0,
+    "gitlens.views.fileHistory.location": "gitlens",
+    "gitlens.views.lineHistory.location": "gitlens",
+    "gitlens.views.compare.location": "gitlens",
+    "gitlens.views.search.location": "gitlens",
+    "prettier.jsxSingleQuote": true,
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "editor.formatOnSave": true,
+    "diffEditor.renderSideBySide": false,
+    "debug.node.autoAttach": "on",
+    "editor.tabSize": 2
+}
